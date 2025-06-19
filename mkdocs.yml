@@ -5,9 +5,14 @@ nav:
   - Architecture: architecture.md
   - Authentication: auth-flow.md
   - API:
+      - Authentication: api/authentication.md
       - News: api/news.md
       - Events: api/events.md
-      - Businesses: api/businesses.md
+      - Marketplace: api/marketplace.md
+      - Business Directory: api/businesses.md
+      - Travel & Places: api/travel_places.md
+      - Mandals: api/mandals.md
+      - Search: api/search.md
   - Flutter:
       - Folder Structure: flutter/folder-structure.md
       - State Management: flutter/state-management.md
