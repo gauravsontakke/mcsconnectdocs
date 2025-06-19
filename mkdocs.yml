@@ -16,5 +16,7 @@ nav:
   - Deployment: deployment.md
   - Troubleshooting: troubleshooting.md
   - Changelog: changelog.md
+  - Website:
+      - Folder Structure: website/website-layout.md
 theme:
   name: material
