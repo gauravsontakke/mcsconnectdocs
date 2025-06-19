@@ -1,0 +1,20 @@
+site_name: MCS Flutter iDempiere Docs
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Architecture: architecture.md
+  - Authentication: auth-flow.md
+  - API:
+      - News: api/news.md
+      - Events: api/events.md
+      - Businesses: api/businesses.md
+  - Flutter:
+      - Folder Structure: flutter/folder-structure.md
+      - State Management: flutter/state-management.md
+      - Models: flutter/models.md
+  - Testing: testing.md
+  - Deployment: deployment.md
+  - Troubleshooting: troubleshooting.md
+  - Changelog: changelog.md
+theme:
+  name: material
