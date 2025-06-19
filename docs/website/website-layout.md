@@ -11,8 +11,8 @@ This section outlines how the Flutter app's mobile UI translates into a structur
 - 🔍 **Search Bar** – Search for Offers, Business, Jobs
 - 🖼 **Highlights Carousel** – E.g. "Hotel Offers"
 - 🔘 **Navigation Grid**:
-  - NRI Jobs, Items for Sale, AAMI Offers, Business Services
-  - Travel Assistance, All Events, AAMI News, AAMI Help Line
+  - NRI Jobs, Items for Sale, MCS Offers, Business Services
+  - Travel Assistance, All Events, MCS  News, MCS Help Line
 - 🏢 **Featured Mandals** – Horizontal scroll or grid
 - 🗞 **Marathi News Papers** – Grid layout
 - 📋 **Job Listings**, **Marketplace Items**, **B2B Offers**
@@ -62,7 +62,7 @@ This section outlines how the Flutter app's mobile UI translates into a structur
 
 ---
 
-## 💬 AAMI Help/Chat Page (`/help`)
+## 💬 MCS Help/Chat Page (`/help`)
 
 - Chat interface with messages aligned left/right
 - Avatar (optional)
