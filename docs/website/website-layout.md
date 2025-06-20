@@ -11,7 +11,7 @@ This section outlines how the Flutter app's mobile UI translates into a structur
 - 🔍 **Search Bar** – Search for Offers, Business, Jobs
 - 🖼 **Highlights Carousel** – E.g. "Hotel Offers"
 - 🔘 **Navigation Grid**:
-  - NRI Jobs, Items for Sale, MCS Offers, Business Services
+  - NRI Jobs, Items for Sale, MCS Offers, Business Services and details
   - Travel Assistance, All Events, MCS  News, MCS Help Line
 - 🏢 **Featured Mandals** – Horizontal scroll or grid
 - 🗞 **Marathi News Papers** – Grid layout
